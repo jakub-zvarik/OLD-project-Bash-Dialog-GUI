@@ -1,4 +1,4 @@
-<h4>VERY OLD bash_project:)</h4>
+<h4>VERY OLD bash project:)</h4>
 
 One of the first projects I did while learning Bash.
 
